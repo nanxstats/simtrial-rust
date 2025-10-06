@@ -2,5 +2,14 @@
 name = "simtrial"
 version = "0.1.0"
 edition = "2024"
+description = "Clinical trial simulation"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/nanxstats/simtrial-rust"
+documentation = "https://docs.rs/simtrial"
+keywords = ["statistics", "clinical-trials", "time-to-event"]
+categories = ["science", "mathematics", "simulation"]
+rust-version = "1.85"
+authors = ["Nan Xiao <me@nanx.me>"]
 
 [dependencies]
