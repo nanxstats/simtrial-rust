@@ -13,3 +13,4 @@ rust-version = "1.85"
 authors = ["Nan Xiao <me@nanx.me>"]
 
 [dependencies]
+rand = "0.9.2"
